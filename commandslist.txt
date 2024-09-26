@@ -1,0 +1,41 @@
+    1  2024-09-26 07:34:48 sudo -i
+    2  2024-09-26 07:34:48 ls
+    3  2024-09-26 07:34:48 ls -a
+    4  2024-09-26 07:34:48 ls -l
+    5  2024-09-26 07:34:48 cd \etc\ssh
+    6  2024-09-26 07:34:48 ls
+    7  2024-09-26 07:34:48 cd .ssh
+    8  2024-09-26 07:34:48 mkdir .ssh
+    9  2024-09-26 07:34:48 cd .ssh
+   10  2024-09-26 07:34:48 ls
+   11  2024-09-26 07:34:48 mkdir authorized_keys
+   12  2024-09-26 07:34:48 rm authorized_keys
+   13  2024-09-26 07:34:48 rmdir authorized_keys
+   14  2024-09-26 07:34:48 vi authorized_keys
+   15  2024-09-26 07:34:48 exit
+   16  2024-09-26 07:34:48 sudo -i
+   17  2024-09-26 07:34:48 exit
+   18  2024-09-26 07:34:48 sudo -i
+   19  2024-09-26 07:34:48 exit
+   20  2024-09-26 07:34:48 ls -a
+   21  2024-09-26 07:34:48 cd .ssh
+   22  2024-09-26 07:34:48 ls
+   23  2024-09-26 07:34:48 cat authorized_keys
+   24  2024-09-26 07:34:48 nano authorized_keys
+   25  2024-09-26 07:34:48 nano authorized_keys.txt
+   26  2024-09-26 07:34:48 cat >> authorized_keys
+   27  2024-09-26 07:34:48 cat authorized_keys
+   28  2024-09-26 07:34:48 exit
+   29  2024-09-26 07:34:48 sudo yum install java-1.8.0-openjdk
+   30  2024-09-26 07:34:48 sudo -i
+   31  2024-09-26 07:34:48 exit
+   32  2024-09-26 07:34:48 sudo -i
+   33  2024-09-26 07:34:48  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   34  2024-09-26 07:34:48 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   35  2024-09-26 07:34:48 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   36  2024-09-26 07:34:48 sqlplus
+   37  2024-09-26 07:34:48 sudo -i
+   38  2024-09-26 07:34:48 sqlplus
+   39  2024-09-26 07:34:48 ls]
+   40  2024-09-26 07:34:48 ls
+   41  2024-09-26 07:34:48 sudo -i
