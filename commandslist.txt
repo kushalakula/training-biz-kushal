@@ -1,41 +1,93 @@
-    1  2024-09-26 07:50:01 sudo -i
-    2  2024-09-26 07:50:01 ls
-    3  2024-09-26 07:50:01 ls -a
-    4  2024-09-26 07:50:01 ls -l
-    5  2024-09-26 07:50:01 cd \etc\ssh
-    6  2024-09-26 07:50:01 ls
-    7  2024-09-26 07:50:01 cd .ssh
-    8  2024-09-26 07:50:01 mkdir .ssh
-    9  2024-09-26 07:50:01 cd .ssh
-   10  2024-09-26 07:50:01 ls
-   11  2024-09-26 07:50:01 mkdir authorized_keys
-   12  2024-09-26 07:50:01 rm authorized_keys
-   13  2024-09-26 07:50:01 rmdir authorized_keys
-   14  2024-09-26 07:50:01 vi authorized_keys
-   15  2024-09-26 07:50:01 exit
-   16  2024-09-26 07:50:01 sudo -i
-   17  2024-09-26 07:50:01 exit
-   18  2024-09-26 07:50:01 sudo -i
-   19  2024-09-26 07:50:01 exit
-   20  2024-09-26 07:50:01 ls -a
-   21  2024-09-26 07:50:01 cd .ssh
-   22  2024-09-26 07:50:01 ls
-   23  2024-09-26 07:50:01 cat authorized_keys
-   24  2024-09-26 07:50:01 nano authorized_keys
-   25  2024-09-26 07:50:01 nano authorized_keys.txt
-   26  2024-09-26 07:50:01 cat >> authorized_keys
-   27  2024-09-26 07:50:01 cat authorized_keys
-   28  2024-09-26 07:50:01 exit
-   29  2024-09-26 07:50:01 sudo yum install java-1.8.0-openjdk
-   30  2024-09-26 07:50:01 sudo -i
-   31  2024-09-26 07:50:01 exit
-   32  2024-09-26 07:50:01 sudo -i
-   33  2024-09-26 07:50:01  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   34  2024-09-26 07:50:01 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   35  2024-09-26 07:50:01 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   36  2024-09-26 07:50:01 sqlplus
-   37  2024-09-26 07:50:01 sudo -i
-   38  2024-09-26 07:50:01 sqlplus
-   39  2024-09-26 07:50:01 ls]
-   40  2024-09-26 07:50:01 ls
-   41  2024-09-26 07:50:01 sudo -i
+    1  2024-09-26 07:53:57 sudo -i
+    2  2024-09-26 07:53:57 ls
+    3  2024-09-26 07:53:57 ls -a
+    4  2024-09-26 07:53:57 ls -l
+    5  2024-09-26 07:53:57 cd \etc\ssh
+    6  2024-09-26 07:53:57 ls
+    7  2024-09-26 07:53:57 cd .ssh
+    8  2024-09-26 07:53:57 mkdir .ssh
+    9  2024-09-26 07:53:57 cd .ssh
+   10  2024-09-26 07:53:57 ls
+   11  2024-09-26 07:53:57 mkdir authorized_keys
+   12  2024-09-26 07:53:57 rm authorized_keys
+   13  2024-09-26 07:53:57 rmdir authorized_keys
+   14  2024-09-26 07:53:57 vi authorized_keys
+   15  2024-09-26 07:53:57 exit
+   16  2024-09-26 07:53:57 sudo -i
+   17  2024-09-26 07:53:57 exit
+   18  2024-09-26 07:53:57 sudo -i
+   19  2024-09-26 07:53:57 exit
+   20  2024-09-26 07:53:57 ls -a
+   21  2024-09-26 07:53:57 cd .ssh
+   22  2024-09-26 07:53:57 ls
+   23  2024-09-26 07:53:57 cat authorized_keys
+   24  2024-09-26 07:53:57 nano authorized_keys
+   25  2024-09-26 07:53:57 nano authorized_keys.txt
+   26  2024-09-26 07:53:57 cat >> authorized_keys
+   27  2024-09-26 07:53:57 cat authorized_keys
+   28  2024-09-26 07:53:57 exit
+   29  2024-09-26 07:53:57 sudo yum install java-1.8.0-openjdk
+   30  2024-09-26 07:53:57 sudo -i
+   31  2024-09-26 07:53:57 exit
+   32  2024-09-26 07:53:57 sudo -i
+   33  2024-09-26 07:53:57  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   34  2024-09-26 07:53:57 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   35  2024-09-26 07:53:57 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   36  2024-09-26 07:53:57 sqlplus
+   37  2024-09-26 07:53:57 sudo -i
+   38  2024-09-26 07:53:57 sqlplus
+   39  2024-09-26 07:53:57 ls]
+   40  2024-09-26 07:53:57 ls
+   41  2024-09-26 07:53:57 sudo -i
+   42  2024-09-26 07:53:57 # Load history from the history file manually
+   43  2024-09-26 07:53:57 history -a
+   44  2024-09-26 07:53:57 history_file=~/.bash_history
+   45  2024-09-26 07:53:57 if [ -f $history_file ]; then     history -r $history_file  # Read the history file into the current session
+fi
+   46  2024-09-26 07:53:57 sudo -i
+   47  2024-09-26 07:53:57 ls
+   48  2024-09-26 07:53:57 ls -a
+   49  2024-09-26 07:53:57 ls -l
+   50  2024-09-26 07:53:57 cd \etc\ssh
+   51  2024-09-26 07:53:57 ls
+   52  2024-09-26 07:53:57 cd .ssh
+   53  2024-09-26 07:53:57 mkdir .ssh
+   54  2024-09-26 07:53:57 cd .ssh
+   55  2024-09-26 07:53:57 ls
+   56  2024-09-26 07:53:57 mkdir authorized_keys
+   57  2024-09-26 07:53:57 rm authorized_keys
+   58  2024-09-26 07:53:57 rmdir authorized_keys
+   59  2024-09-26 07:53:57 vi authorized_keys
+   60  2024-09-26 07:53:57 exit
+   61  2024-09-26 07:53:57 sudo -i
+   62  2024-09-26 07:53:57 exit
+   63  2024-09-26 07:53:57 sudo -i
+   64  2024-09-26 07:53:57 exit
+   65  2024-09-26 07:53:57 ls -a
+   66  2024-09-26 07:53:57 cd .ssh
+   67  2024-09-26 07:53:57 ls
+   68  2024-09-26 07:53:57 cat authorized_keys
+   69  2024-09-26 07:53:57 nano authorized_keys
+   70  2024-09-26 07:53:57 nano authorized_keys.txt
+   71  2024-09-26 07:53:57 cat >> authorized_keys
+   72  2024-09-26 07:53:57 cat authorized_keys
+   73  2024-09-26 07:53:57 exit
+   74  2024-09-26 07:53:57 sudo yum install java-1.8.0-openjdk
+   75  2024-09-26 07:53:57 sudo -i
+   76  2024-09-26 07:53:57 exit
+   77  2024-09-26 07:53:57 sudo -i
+   78  2024-09-26 07:53:57  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   79  2024-09-26 07:53:57 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   80  2024-09-26 07:53:57 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   81  2024-09-26 07:53:57 sqlplus
+   82  2024-09-26 07:53:57 sudo -i
+   83  2024-09-26 07:53:57 sqlplus
+   84  2024-09-26 07:53:57 ls]
+   85  2024-09-26 07:53:57 ls
+   86  2024-09-26 07:53:57 sudo -i
+   87  2024-09-26 07:53:57 # Load history from the history file manually
+   88  2024-09-26 07:53:57 history -a
+   89  2024-09-26 07:53:57 # Navigate to your GitHub repo
+   90  2024-09-26 07:53:57 cd ~/training-biz-kushal
+   91  2024-09-26 07:53:57 # Save the history to the commandslist.txt file inside the repo
+   92  2024-09-26 07:53:57 history > ./commandslist.txt
