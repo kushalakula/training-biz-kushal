@@ -1,44 +1,44 @@
-    1  2024-09-26 08:35:01 sudo -i
-    2  2024-09-26 08:35:01 ls
-    3  2024-09-26 08:35:01 ls -a
-    4  2024-09-26 08:35:01 ls -l
-    5  2024-09-26 08:35:01 cd \etc\ssh
-    6  2024-09-26 08:35:01 ls
-    7  2024-09-26 08:35:01 cd .ssh
-    8  2024-09-26 08:35:01 mkdir .ssh
-    9  2024-09-26 08:35:01 cd .ssh
-   10  2024-09-26 08:35:01 ls
-   11  2024-09-26 08:35:01 mkdir authorized_keys
-   12  2024-09-26 08:35:01 rm authorized_keys
-   13  2024-09-26 08:35:01 rmdir authorized_keys
-   14  2024-09-26 08:35:01 vi authorized_keys
-   15  2024-09-26 08:35:01 exit
-   16  2024-09-26 08:35:01 sudo -i
-   17  2024-09-26 08:35:01 exit
-   18  2024-09-26 08:35:01 sudo -i
-   19  2024-09-26 08:35:01 exit
-   20  2024-09-26 08:35:01 ls -a
-   21  2024-09-26 08:35:01 cd .ssh
-   22  2024-09-26 08:35:01 ls
-   23  2024-09-26 08:35:01 cat authorized_keys
-   24  2024-09-26 08:35:01 nano authorized_keys
-   25  2024-09-26 08:35:01 nano authorized_keys.txt
-   26  2024-09-26 08:35:01 cat >> authorized_keys
-   27  2024-09-26 08:35:01 cat authorized_keys
-   28  2024-09-26 08:35:01 exit
-   29  2024-09-26 08:35:01 sudo yum install java-1.8.0-openjdk
-   30  2024-09-26 08:35:01 sudo -i
-   31  2024-09-26 08:35:01 exit
-   32  2024-09-26 08:35:01 sudo -i
-   33  2024-09-26 08:35:01  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   34  2024-09-26 08:35:01 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   35  2024-09-26 08:35:01 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-   36  2024-09-26 08:35:01 sqlplus
-   37  2024-09-26 08:35:01 sudo -i
-   38  2024-09-26 08:35:01 sqlplus
-   39  2024-09-26 08:35:01 ls]
-   40  2024-09-26 08:35:01 ls
-   41  2024-09-26 08:35:01 sudo -i
+    1  2024-09-26 08:40:01 sudo -i
+    2  2024-09-26 08:40:01 ls
+    3  2024-09-26 08:40:01 ls -a
+    4  2024-09-26 08:40:01 ls -l
+    5  2024-09-26 08:40:01 cd \etc\ssh
+    6  2024-09-26 08:40:01 ls
+    7  2024-09-26 08:40:01 cd .ssh
+    8  2024-09-26 08:40:01 mkdir .ssh
+    9  2024-09-26 08:40:01 cd .ssh
+   10  2024-09-26 08:40:01 ls
+   11  2024-09-26 08:40:01 mkdir authorized_keys
+   12  2024-09-26 08:40:01 rm authorized_keys
+   13  2024-09-26 08:40:01 rmdir authorized_keys
+   14  2024-09-26 08:40:01 vi authorized_keys
+   15  2024-09-26 08:40:01 exit
+   16  2024-09-26 08:40:01 sudo -i
+   17  2024-09-26 08:40:01 exit
+   18  2024-09-26 08:40:01 sudo -i
+   19  2024-09-26 08:40:01 exit
+   20  2024-09-26 08:40:01 ls -a
+   21  2024-09-26 08:40:01 cd .ssh
+   22  2024-09-26 08:40:01 ls
+   23  2024-09-26 08:40:01 cat authorized_keys
+   24  2024-09-26 08:40:01 nano authorized_keys
+   25  2024-09-26 08:40:01 nano authorized_keys.txt
+   26  2024-09-26 08:40:01 cat >> authorized_keys
+   27  2024-09-26 08:40:01 cat authorized_keys
+   28  2024-09-26 08:40:01 exit
+   29  2024-09-26 08:40:01 sudo yum install java-1.8.0-openjdk
+   30  2024-09-26 08:40:01 sudo -i
+   31  2024-09-26 08:40:01 exit
+   32  2024-09-26 08:40:01 sudo -i
+   33  2024-09-26 08:40:01  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   34  2024-09-26 08:40:01 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   35  2024-09-26 08:40:01 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+   36  2024-09-26 08:40:01 sqlplus
+   37  2024-09-26 08:40:01 sudo -i
+   38  2024-09-26 08:40:01 sqlplus
+   39  2024-09-26 08:40:01 ls]
+   40  2024-09-26 08:40:01 ls
+   41  2024-09-26 08:40:01 sudo -i
    42  2024-09-26 07:53:57 # Load history from the history file manually
    43  2024-09-26 07:53:57 history -a
    44  2024-09-26 07:53:57 # Load history from the history file manually
@@ -185,197 +185,229 @@
   185  2024-09-26 08:30:01 git push origin main
   186  2024-09-26 08:35:01 # Load history from the history file manually
   187  2024-09-26 08:35:01 history -a
-  188  2024-09-26 08:35:01 history_file=~/.bash_history
-  189  2024-09-26 08:35:01 if [ -f $history_file ]; then     history -r $history_file  # Read the history file into the current session
+  188  2024-09-26 08:35:01 # Load history from the history file manually
+  189  2024-09-26 08:35:01 history -a
+  190  2024-09-26 08:35:01 # Navigate to your GitHub repo
+  191  2024-09-26 08:35:01 cd ~/training-biz-kushal
+  192  2024-09-26 08:35:01 # Save the history to the commandslist.txt file inside the repo
+  193  2024-09-26 08:35:01 history > ./commandslist.txt
+  194  2024-09-26 08:35:01 # Get the current date and time
+  195  2024-09-26 08:35:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  196  2024-09-26 08:35:01 # Add the commandslist.txt file to Git
+  197  2024-09-26 08:35:01 git add ./commandslist.txt
+  198  2024-09-26 08:35:01 # Commit the changes with the current time in the message
+  199  2024-09-26 08:35:01 git commit -m "Committed at $current_time"
+  200  2024-09-26 08:35:01 # Push the changes to GitHub
+  201  2024-09-26 08:35:01 git push origin main
+  202  2024-09-26 08:40:01 # Load history from the history file manually
+  203  2024-09-26 08:40:01 history -a
+  204  2024-09-26 08:40:01 history_file=~/.bash_history
+  205  2024-09-26 08:40:01 if [ -f $history_file ]; then     history -r $history_file  # Read the history file into the current session
 fi
-  190  2024-09-26 08:35:01 sudo -i
-  191  2024-09-26 08:35:01 ls
-  192  2024-09-26 08:35:01 ls -a
-  193  2024-09-26 08:35:01 ls -l
-  194  2024-09-26 08:35:01 cd \etc\ssh
-  195  2024-09-26 08:35:01 ls
-  196  2024-09-26 08:35:01 cd .ssh
-  197  2024-09-26 08:35:01 mkdir .ssh
-  198  2024-09-26 08:35:01 cd .ssh
-  199  2024-09-26 08:35:01 ls
-  200  2024-09-26 08:35:01 mkdir authorized_keys
-  201  2024-09-26 08:35:01 rm authorized_keys
-  202  2024-09-26 08:35:01 rmdir authorized_keys
-  203  2024-09-26 08:35:01 vi authorized_keys
-  204  2024-09-26 08:35:01 exit
-  205  2024-09-26 08:35:01 sudo -i
-  206  2024-09-26 08:35:01 exit
-  207  2024-09-26 08:35:01 sudo -i
-  208  2024-09-26 08:35:01 exit
-  209  2024-09-26 08:35:01 ls -a
-  210  2024-09-26 08:35:01 cd .ssh
-  211  2024-09-26 08:35:01 ls
-  212  2024-09-26 08:35:01 cat authorized_keys
-  213  2024-09-26 08:35:01 nano authorized_keys
-  214  2024-09-26 08:35:01 nano authorized_keys.txt
-  215  2024-09-26 08:35:01 cat >> authorized_keys
-  216  2024-09-26 08:35:01 cat authorized_keys
-  217  2024-09-26 08:35:01 exit
-  218  2024-09-26 08:35:01 sudo yum install java-1.8.0-openjdk
-  219  2024-09-26 08:35:01 sudo -i
-  220  2024-09-26 08:35:01 exit
-  221  2024-09-26 08:35:01 sudo -i
-  222  2024-09-26 08:35:01  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-  223  2024-09-26 08:35:01 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-  224  2024-09-26 08:35:01 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
-  225  2024-09-26 08:35:01 sqlplus
-  226  2024-09-26 08:35:01 sudo -i
-  227  2024-09-26 08:35:01 sqlplus
-  228  2024-09-26 08:35:01 ls]
-  229  2024-09-26 08:35:01 ls
-  230  2024-09-26 08:35:01 sudo -i
-  231  2024-09-26 07:53:57 # Load history from the history file manually
-  232  2024-09-26 07:53:57 history -a
-  233  2024-09-26 07:53:57 # Load history from the history file manually
-  234  2024-09-26 07:53:57 history -a
-  235  2024-09-26 07:53:57 # Navigate to your GitHub repo
-  236  2024-09-26 07:53:57 cd ~/training-biz-kushal
-  237  2024-09-26 07:53:57 # Save the history to the commandslist.txt file inside the repo
-  238  2024-09-26 07:53:57 history > ./commandslist.txt
-  239  2024-09-26 07:53:57 # Get the current date and time
-  240  2024-09-26 07:53:57 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  241  2024-09-26 07:53:57 # Add the commandslist.txt file to Git
-  242  2024-09-26 07:53:57 git add ./commandslist.txt
-  243  2024-09-26 07:53:57 # Commit the changes with the current time in the message
-  244  2024-09-26 07:53:57 git commit -m "Committed at $current_time"
-  245  2024-09-26 07:53:57 # Push the changes to GitHub
-  246  2024-09-26 07:53:57 git push origin main
-  247  2024-09-26 07:55:01 # Load history from the history file manually
-  248  2024-09-26 07:55:01 history -a
-  249  2024-09-26 07:55:01 # Load history from the history file manually
-  250  2024-09-26 07:55:01 history -a
-  251  2024-09-26 07:55:01 # Navigate to your GitHub repo
-  252  2024-09-26 07:55:01 cd ~/training-biz-kushal
-  253  2024-09-26 07:55:01 # Save the history to the commandslist.txt file inside the repo
-  254  2024-09-26 07:55:01 history > ./commandslist.txt
-  255  2024-09-26 07:55:01 # Get the current date and time
-  256  2024-09-26 07:55:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  257  2024-09-26 07:55:01 # Add the commandslist.txt file to Git
-  258  2024-09-26 07:55:01 git add ./commandslist.txt
-  259  2024-09-26 07:55:01 # Commit the changes with the current time in the message
-  260  2024-09-26 07:55:01 git commit -m "Committed at $current_time"
-  261  2024-09-26 07:55:01 # Push the changes to GitHub
-  262  2024-09-26 07:55:01 git push origin main
-  263  2024-09-26 08:00:01 # Load history from the history file manually
-  264  2024-09-26 08:00:01 history -a
-  265  2024-09-26 08:00:01 # Load history from the history file manually
-  266  2024-09-26 08:00:01 history -a
-  267  2024-09-26 08:00:01 # Navigate to your GitHub repo
-  268  2024-09-26 08:00:01 cd ~/training-biz-kushal
-  269  2024-09-26 08:00:01 # Save the history to the commandslist.txt file inside the repo
-  270  2024-09-26 08:00:01 history > ./commandslist.txt
-  271  2024-09-26 08:00:01 # Get the current date and time
-  272  2024-09-26 08:00:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  273  2024-09-26 08:00:01 # Add the commandslist.txt file to Git
-  274  2024-09-26 08:00:01 git add ./commandslist.txt
-  275  2024-09-26 08:00:01 # Commit the changes with the current time in the message
-  276  2024-09-26 08:00:01 git commit -m "Committed at $current_time"
-  277  2024-09-26 08:00:01 # Push the changes to GitHub
-  278  2024-09-26 08:00:01 git push origin main
-  279  2024-09-26 08:05:01 # Load history from the history file manually
-  280  2024-09-26 08:05:01 history -a
-  281  2024-09-26 08:05:01 # Load history from the history file manually
-  282  2024-09-26 08:05:01 history -a
-  283  2024-09-26 08:05:01 # Navigate to your GitHub repo
-  284  2024-09-26 08:05:01 cd ~/training-biz-kushal
-  285  2024-09-26 08:05:01 # Save the history to the commandslist.txt file inside the repo
-  286  2024-09-26 08:05:01 history > ./commandslist.txt
-  287  2024-09-26 08:05:01 # Get the current date and time
-  288  2024-09-26 08:05:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  289  2024-09-26 08:05:01 # Add the commandslist.txt file to Git
-  290  2024-09-26 08:05:01 git add ./commandslist.txt
-  291  2024-09-26 08:05:01 # Commit the changes with the current time in the message
-  292  2024-09-26 08:05:01 git commit -m "Committed at $current_time"
-  293  2024-09-26 08:05:01 # Push the changes to GitHub
-  294  2024-09-26 08:05:01 git push origin main
-  295  2024-09-26 08:10:01 # Load history from the history file manually
-  296  2024-09-26 08:10:01 history -a
-  297  2024-09-26 08:10:01 # Load history from the history file manually
-  298  2024-09-26 08:10:01 history -a
-  299  2024-09-26 08:10:01 # Navigate to your GitHub repo
-  300  2024-09-26 08:10:01 cd ~/training-biz-kushal
-  301  2024-09-26 08:10:01 # Save the history to the commandslist.txt file inside the repo
-  302  2024-09-26 08:10:01 history > ./commandslist.txt
-  303  2024-09-26 08:10:01 # Get the current date and time
-  304  2024-09-26 08:10:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  305  2024-09-26 08:10:01 # Add the commandslist.txt file to Git
-  306  2024-09-26 08:10:01 git add ./commandslist.txt
-  307  2024-09-26 08:10:01 # Commit the changes with the current time in the message
-  308  2024-09-26 08:10:01 git commit -m "Committed at $current_time"
-  309  2024-09-26 08:10:01 # Push the changes to GitHub
-  310  2024-09-26 08:10:01 git push origin main
-  311  2024-09-26 08:15:01 # Load history from the history file manually
-  312  2024-09-26 08:15:01 history -a
-  313  2024-09-26 08:15:01 # Load history from the history file manually
-  314  2024-09-26 08:15:01 history -a
-  315  2024-09-26 08:15:01 # Navigate to your GitHub repo
-  316  2024-09-26 08:15:01 cd ~/training-biz-kushal
-  317  2024-09-26 08:15:01 # Save the history to the commandslist.txt file inside the repo
-  318  2024-09-26 08:15:01 history > ./commandslist.txt
-  319  2024-09-26 08:15:01 # Get the current date and time
-  320  2024-09-26 08:15:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  321  2024-09-26 08:15:01 # Add the commandslist.txt file to Git
-  322  2024-09-26 08:15:01 git add ./commandslist.txt
-  323  2024-09-26 08:15:01 # Commit the changes with the current time in the message
-  324  2024-09-26 08:15:01 git commit -m "Committed at $current_time"
-  325  2024-09-26 08:15:01 # Push the changes to GitHub
-  326  2024-09-26 08:15:01 git push origin main
-  327  2024-09-26 08:20:01 # Load history from the history file manually
-  328  2024-09-26 08:20:01 history -a
-  329  2024-09-26 08:20:01 # Load history from the history file manually
-  330  2024-09-26 08:20:01 history -a
-  331  2024-09-26 08:20:01 # Navigate to your GitHub repo
-  332  2024-09-26 08:20:01 cd ~/training-biz-kushal
-  333  2024-09-26 08:20:01 # Save the history to the commandslist.txt file inside the repo
-  334  2024-09-26 08:20:01 history > ./commandslist.txt
-  335  2024-09-26 08:20:01 # Get the current date and time
-  336  2024-09-26 08:20:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  337  2024-09-26 08:20:01 # Add the commandslist.txt file to Git
-  338  2024-09-26 08:20:01 git add ./commandslist.txt
-  339  2024-09-26 08:20:01 # Commit the changes with the current time in the message
-  340  2024-09-26 08:20:01 git commit -m "Committed at $current_time"
-  341  2024-09-26 08:20:01 # Push the changes to GitHub
-  342  2024-09-26 08:20:01 git push origin main
-  343  2024-09-26 08:25:01 # Load history from the history file manually
-  344  2024-09-26 08:25:01 history -a
-  345  2024-09-26 08:25:01 # Load history from the history file manually
-  346  2024-09-26 08:25:01 history -a
-  347  2024-09-26 08:25:01 # Navigate to your GitHub repo
-  348  2024-09-26 08:25:01 cd ~/training-biz-kushal
-  349  2024-09-26 08:25:01 # Save the history to the commandslist.txt file inside the repo
-  350  2024-09-26 08:25:01 history > ./commandslist.txt
-  351  2024-09-26 08:25:01 # Get the current date and time
-  352  2024-09-26 08:25:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  353  2024-09-26 08:25:01 # Add the commandslist.txt file to Git
-  354  2024-09-26 08:25:01 git add ./commandslist.txt
-  355  2024-09-26 08:25:01 # Commit the changes with the current time in the message
-  356  2024-09-26 08:25:01 git commit -m "Committed at $current_time"
-  357  2024-09-26 08:25:01 # Push the changes to GitHub
-  358  2024-09-26 08:25:01 git push origin main
-  359  2024-09-26 08:30:01 # Load history from the history file manually
-  360  2024-09-26 08:30:01 history -a
-  361  2024-09-26 08:30:01 # Load history from the history file manually
-  362  2024-09-26 08:30:01 history -a
-  363  2024-09-26 08:30:01 # Navigate to your GitHub repo
-  364  2024-09-26 08:30:01 cd ~/training-biz-kushal
-  365  2024-09-26 08:30:01 # Save the history to the commandslist.txt file inside the repo
-  366  2024-09-26 08:30:01 history > ./commandslist.txt
-  367  2024-09-26 08:30:01 # Get the current date and time
-  368  2024-09-26 08:30:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  369  2024-09-26 08:30:01 # Add the commandslist.txt file to Git
-  370  2024-09-26 08:30:01 git add ./commandslist.txt
-  371  2024-09-26 08:30:01 # Commit the changes with the current time in the message
-  372  2024-09-26 08:30:01 git commit -m "Committed at $current_time"
-  373  2024-09-26 08:30:01 # Push the changes to GitHub
-  374  2024-09-26 08:30:01 git push origin main
-  375  2024-09-26 08:35:01 # Load history from the history file manually
-  376  2024-09-26 08:35:01 history -a
-  377  2024-09-26 08:35:01 # Navigate to your GitHub repo
-  378  2024-09-26 08:35:01 cd ~/training-biz-kushal
-  379  2024-09-26 08:35:01 # Save the history to the commandslist.txt file inside the repo
-  380  2024-09-26 08:35:01 history > ./commandslist.txt
+  206  2024-09-26 08:40:01 sudo -i
+  207  2024-09-26 08:40:01 ls
+  208  2024-09-26 08:40:01 ls -a
+  209  2024-09-26 08:40:01 ls -l
+  210  2024-09-26 08:40:01 cd \etc\ssh
+  211  2024-09-26 08:40:01 ls
+  212  2024-09-26 08:40:01 cd .ssh
+  213  2024-09-26 08:40:01 mkdir .ssh
+  214  2024-09-26 08:40:01 cd .ssh
+  215  2024-09-26 08:40:01 ls
+  216  2024-09-26 08:40:01 mkdir authorized_keys
+  217  2024-09-26 08:40:01 rm authorized_keys
+  218  2024-09-26 08:40:01 rmdir authorized_keys
+  219  2024-09-26 08:40:01 vi authorized_keys
+  220  2024-09-26 08:40:01 exit
+  221  2024-09-26 08:40:01 sudo -i
+  222  2024-09-26 08:40:01 exit
+  223  2024-09-26 08:40:01 sudo -i
+  224  2024-09-26 08:40:01 exit
+  225  2024-09-26 08:40:01 ls -a
+  226  2024-09-26 08:40:01 cd .ssh
+  227  2024-09-26 08:40:01 ls
+  228  2024-09-26 08:40:01 cat authorized_keys
+  229  2024-09-26 08:40:01 nano authorized_keys
+  230  2024-09-26 08:40:01 nano authorized_keys.txt
+  231  2024-09-26 08:40:01 cat >> authorized_keys
+  232  2024-09-26 08:40:01 cat authorized_keys
+  233  2024-09-26 08:40:01 exit
+  234  2024-09-26 08:40:01 sudo yum install java-1.8.0-openjdk
+  235  2024-09-26 08:40:01 sudo -i
+  236  2024-09-26 08:40:01 exit
+  237  2024-09-26 08:40:01 sudo -i
+  238  2024-09-26 08:40:01  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+  239  2024-09-26 08:40:01 sudo  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+  240  2024-09-26 08:40:01 sudo -i  imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+  241  2024-09-26 08:40:01 sqlplus
+  242  2024-09-26 08:40:01 sudo -i
+  243  2024-09-26 08:40:01 sqlplus
+  244  2024-09-26 08:40:01 ls]
+  245  2024-09-26 08:40:01 ls
+  246  2024-09-26 08:40:01 sudo -i
+  247  2024-09-26 07:53:57 # Load history from the history file manually
+  248  2024-09-26 07:53:57 history -a
+  249  2024-09-26 07:53:57 # Load history from the history file manually
+  250  2024-09-26 07:53:57 history -a
+  251  2024-09-26 07:53:57 # Navigate to your GitHub repo
+  252  2024-09-26 07:53:57 cd ~/training-biz-kushal
+  253  2024-09-26 07:53:57 # Save the history to the commandslist.txt file inside the repo
+  254  2024-09-26 07:53:57 history > ./commandslist.txt
+  255  2024-09-26 07:53:57 # Get the current date and time
+  256  2024-09-26 07:53:57 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  257  2024-09-26 07:53:57 # Add the commandslist.txt file to Git
+  258  2024-09-26 07:53:57 git add ./commandslist.txt
+  259  2024-09-26 07:53:57 # Commit the changes with the current time in the message
+  260  2024-09-26 07:53:57 git commit -m "Committed at $current_time"
+  261  2024-09-26 07:53:57 # Push the changes to GitHub
+  262  2024-09-26 07:53:57 git push origin main
+  263  2024-09-26 07:55:01 # Load history from the history file manually
+  264  2024-09-26 07:55:01 history -a
+  265  2024-09-26 07:55:01 # Load history from the history file manually
+  266  2024-09-26 07:55:01 history -a
+  267  2024-09-26 07:55:01 # Navigate to your GitHub repo
+  268  2024-09-26 07:55:01 cd ~/training-biz-kushal
+  269  2024-09-26 07:55:01 # Save the history to the commandslist.txt file inside the repo
+  270  2024-09-26 07:55:01 history > ./commandslist.txt
+  271  2024-09-26 07:55:01 # Get the current date and time
+  272  2024-09-26 07:55:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  273  2024-09-26 07:55:01 # Add the commandslist.txt file to Git
+  274  2024-09-26 07:55:01 git add ./commandslist.txt
+  275  2024-09-26 07:55:01 # Commit the changes with the current time in the message
+  276  2024-09-26 07:55:01 git commit -m "Committed at $current_time"
+  277  2024-09-26 07:55:01 # Push the changes to GitHub
+  278  2024-09-26 07:55:01 git push origin main
+  279  2024-09-26 08:00:01 # Load history from the history file manually
+  280  2024-09-26 08:00:01 history -a
+  281  2024-09-26 08:00:01 # Load history from the history file manually
+  282  2024-09-26 08:00:01 history -a
+  283  2024-09-26 08:00:01 # Navigate to your GitHub repo
+  284  2024-09-26 08:00:01 cd ~/training-biz-kushal
+  285  2024-09-26 08:00:01 # Save the history to the commandslist.txt file inside the repo
+  286  2024-09-26 08:00:01 history > ./commandslist.txt
+  287  2024-09-26 08:00:01 # Get the current date and time
+  288  2024-09-26 08:00:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  289  2024-09-26 08:00:01 # Add the commandslist.txt file to Git
+  290  2024-09-26 08:00:01 git add ./commandslist.txt
+  291  2024-09-26 08:00:01 # Commit the changes with the current time in the message
+  292  2024-09-26 08:00:01 git commit -m "Committed at $current_time"
+  293  2024-09-26 08:00:01 # Push the changes to GitHub
+  294  2024-09-26 08:00:01 git push origin main
+  295  2024-09-26 08:05:01 # Load history from the history file manually
+  296  2024-09-26 08:05:01 history -a
+  297  2024-09-26 08:05:01 # Load history from the history file manually
+  298  2024-09-26 08:05:01 history -a
+  299  2024-09-26 08:05:01 # Navigate to your GitHub repo
+  300  2024-09-26 08:05:01 cd ~/training-biz-kushal
+  301  2024-09-26 08:05:01 # Save the history to the commandslist.txt file inside the repo
+  302  2024-09-26 08:05:01 history > ./commandslist.txt
+  303  2024-09-26 08:05:01 # Get the current date and time
+  304  2024-09-26 08:05:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  305  2024-09-26 08:05:01 # Add the commandslist.txt file to Git
+  306  2024-09-26 08:05:01 git add ./commandslist.txt
+  307  2024-09-26 08:05:01 # Commit the changes with the current time in the message
+  308  2024-09-26 08:05:01 git commit -m "Committed at $current_time"
+  309  2024-09-26 08:05:01 # Push the changes to GitHub
+  310  2024-09-26 08:05:01 git push origin main
+  311  2024-09-26 08:10:01 # Load history from the history file manually
+  312  2024-09-26 08:10:01 history -a
+  313  2024-09-26 08:10:01 # Load history from the history file manually
+  314  2024-09-26 08:10:01 history -a
+  315  2024-09-26 08:10:01 # Navigate to your GitHub repo
+  316  2024-09-26 08:10:01 cd ~/training-biz-kushal
+  317  2024-09-26 08:10:01 # Save the history to the commandslist.txt file inside the repo
+  318  2024-09-26 08:10:01 history > ./commandslist.txt
+  319  2024-09-26 08:10:01 # Get the current date and time
+  320  2024-09-26 08:10:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  321  2024-09-26 08:10:01 # Add the commandslist.txt file to Git
+  322  2024-09-26 08:10:01 git add ./commandslist.txt
+  323  2024-09-26 08:10:01 # Commit the changes with the current time in the message
+  324  2024-09-26 08:10:01 git commit -m "Committed at $current_time"
+  325  2024-09-26 08:10:01 # Push the changes to GitHub
+  326  2024-09-26 08:10:01 git push origin main
+  327  2024-09-26 08:15:01 # Load history from the history file manually
+  328  2024-09-26 08:15:01 history -a
+  329  2024-09-26 08:15:01 # Load history from the history file manually
+  330  2024-09-26 08:15:01 history -a
+  331  2024-09-26 08:15:01 # Navigate to your GitHub repo
+  332  2024-09-26 08:15:01 cd ~/training-biz-kushal
+  333  2024-09-26 08:15:01 # Save the history to the commandslist.txt file inside the repo
+  334  2024-09-26 08:15:01 history > ./commandslist.txt
+  335  2024-09-26 08:15:01 # Get the current date and time
+  336  2024-09-26 08:15:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  337  2024-09-26 08:15:01 # Add the commandslist.txt file to Git
+  338  2024-09-26 08:15:01 git add ./commandslist.txt
+  339  2024-09-26 08:15:01 # Commit the changes with the current time in the message
+  340  2024-09-26 08:15:01 git commit -m "Committed at $current_time"
+  341  2024-09-26 08:15:01 # Push the changes to GitHub
+  342  2024-09-26 08:15:01 git push origin main
+  343  2024-09-26 08:20:01 # Load history from the history file manually
+  344  2024-09-26 08:20:01 history -a
+  345  2024-09-26 08:20:01 # Load history from the history file manually
+  346  2024-09-26 08:20:01 history -a
+  347  2024-09-26 08:20:01 # Navigate to your GitHub repo
+  348  2024-09-26 08:20:01 cd ~/training-biz-kushal
+  349  2024-09-26 08:20:01 # Save the history to the commandslist.txt file inside the repo
+  350  2024-09-26 08:20:01 history > ./commandslist.txt
+  351  2024-09-26 08:20:01 # Get the current date and time
+  352  2024-09-26 08:20:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  353  2024-09-26 08:20:01 # Add the commandslist.txt file to Git
+  354  2024-09-26 08:20:01 git add ./commandslist.txt
+  355  2024-09-26 08:20:01 # Commit the changes with the current time in the message
+  356  2024-09-26 08:20:01 git commit -m "Committed at $current_time"
+  357  2024-09-26 08:20:01 # Push the changes to GitHub
+  358  2024-09-26 08:20:01 git push origin main
+  359  2024-09-26 08:25:01 # Load history from the history file manually
+  360  2024-09-26 08:25:01 history -a
+  361  2024-09-26 08:25:01 # Load history from the history file manually
+  362  2024-09-26 08:25:01 history -a
+  363  2024-09-26 08:25:01 # Navigate to your GitHub repo
+  364  2024-09-26 08:25:01 cd ~/training-biz-kushal
+  365  2024-09-26 08:25:01 # Save the history to the commandslist.txt file inside the repo
+  366  2024-09-26 08:25:01 history > ./commandslist.txt
+  367  2024-09-26 08:25:01 # Get the current date and time
+  368  2024-09-26 08:25:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  369  2024-09-26 08:25:01 # Add the commandslist.txt file to Git
+  370  2024-09-26 08:25:01 git add ./commandslist.txt
+  371  2024-09-26 08:25:01 # Commit the changes with the current time in the message
+  372  2024-09-26 08:25:01 git commit -m "Committed at $current_time"
+  373  2024-09-26 08:25:01 # Push the changes to GitHub
+  374  2024-09-26 08:25:01 git push origin main
+  375  2024-09-26 08:30:01 # Load history from the history file manually
+  376  2024-09-26 08:30:01 history -a
+  377  2024-09-26 08:30:01 # Load history from the history file manually
+  378  2024-09-26 08:30:01 history -a
+  379  2024-09-26 08:30:01 # Navigate to your GitHub repo
+  380  2024-09-26 08:30:01 cd ~/training-biz-kushal
+  381  2024-09-26 08:30:01 # Save the history to the commandslist.txt file inside the repo
+  382  2024-09-26 08:30:01 history > ./commandslist.txt
+  383  2024-09-26 08:30:01 # Get the current date and time
+  384  2024-09-26 08:30:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  385  2024-09-26 08:30:01 # Add the commandslist.txt file to Git
+  386  2024-09-26 08:30:01 git add ./commandslist.txt
+  387  2024-09-26 08:30:01 # Commit the changes with the current time in the message
+  388  2024-09-26 08:30:01 git commit -m "Committed at $current_time"
+  389  2024-09-26 08:30:01 # Push the changes to GitHub
+  390  2024-09-26 08:30:01 git push origin main
+  391  2024-09-26 08:35:01 # Load history from the history file manually
+  392  2024-09-26 08:35:01 history -a
+  393  2024-09-26 08:35:01 # Load history from the history file manually
+  394  2024-09-26 08:35:01 history -a
+  395  2024-09-26 08:35:01 # Navigate to your GitHub repo
+  396  2024-09-26 08:35:01 cd ~/training-biz-kushal
+  397  2024-09-26 08:35:01 # Save the history to the commandslist.txt file inside the repo
+  398  2024-09-26 08:35:01 history > ./commandslist.txt
+  399  2024-09-26 08:35:01 # Get the current date and time
+  400  2024-09-26 08:35:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  401  2024-09-26 08:35:01 # Add the commandslist.txt file to Git
+  402  2024-09-26 08:35:01 git add ./commandslist.txt
+  403  2024-09-26 08:35:01 # Commit the changes with the current time in the message
+  404  2024-09-26 08:35:01 git commit -m "Committed at $current_time"
+  405  2024-09-26 08:35:01 # Push the changes to GitHub
+  406  2024-09-26 08:35:01 git push origin main
+  407  2024-09-26 08:40:01 # Load history from the history file manually
+  408  2024-09-26 08:40:01 history -a
+  409  2024-09-26 08:40:01 # Navigate to your GitHub repo
+  410  2024-09-26 08:40:01 cd ~/training-biz-kushal
+  411  2024-09-26 08:40:01 # Save the history to the commandslist.txt file inside the repo
+  412  2024-09-26 08:40:01 history > ./commandslist.txt
